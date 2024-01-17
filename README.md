@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Omkar Choudhari</h1>
 <h3 align="center">A passionate to become Android Developer.</h3>
 
-<img align="righta" alt="coding" width="400" >
+<img align="righta" alt="coding" width="400">
 
 - 🔭 I’m currently Studying **Android developement**
 
